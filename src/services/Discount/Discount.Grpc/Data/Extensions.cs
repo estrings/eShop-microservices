@@ -1,4 +1,6 @@
-﻿namespace Discount.Grpc.Data;
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace Discount.Grpc.Data;
 
 public static class Extentions
 {
